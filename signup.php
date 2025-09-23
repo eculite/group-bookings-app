@@ -22,4 +22,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <label>Phone: <input name="phone"></label><br>
 <button>Register</button>
 </form>
-</body></html>
+</body></html>cd "C:\Users\mich\Desktop\group-bookings-app"
