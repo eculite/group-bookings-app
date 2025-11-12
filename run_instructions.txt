@@ -1,0 +1,1 @@
+Place this folder in your XAMPP htdocs directory, import schema.sql into MySQL, start Apache & MySQL, then visit http://localhost/group_project_skeleton/
